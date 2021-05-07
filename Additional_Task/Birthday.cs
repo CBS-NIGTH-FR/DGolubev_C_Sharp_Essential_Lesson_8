@@ -12,8 +12,8 @@ namespace Additional_Task
 
         public Birthday()
         {
-            MyBirthdayDate = BirthdayDate();
-            BirthdayDaysLeft = DaysLeft(MyBirthdayDate);
+            MyBirthdayDate = BirthdayDate(); //Круто
+            BirthdayDaysLeft = DaysLeft(MyBirthdayDate); //Круто
         }
 
         private DateTime BirthdayDate()
